@@ -80,7 +80,7 @@
     <div class="cv-container">
         <div class="cv-header">
             <div class="photo-wrapper">
-                <img id="profilePhoto" src="daddadd.jpg" alt="Foto Yonathan Hezron" class="profile-photo">
+                <img id="profilePhoto" src="Daddadd.jpg" alt="Foto Yonathan Hezron" class="profile-photo">
             </div>
             <h1>Yonathan Hezron</h1>
             <p>Mahasiswa Sistem Informasi di Telkom University dengan minat dalam teknologi, analisis data, serta pengembangan perangkat lunak.</p>
